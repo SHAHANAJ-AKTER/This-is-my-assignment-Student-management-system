@@ -1,1 +1,0 @@
-# This-is-my-assignment-Student-management-system
